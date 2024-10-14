@@ -1,5 +1,3 @@
-# Motangi-_Glasses-Mirrors
-=======
 # Motangi_Glasses_and_Mirrors
 A website application that offers a wide selection of glasses and mirrors ranging from wall mirrors to washroom mirrors and glasses.
 
@@ -80,6 +78,4 @@ A Web-app that sells glasses and mirrors.
     <li>Youtube tutorials. </li>
     <li>Canvas Learning Materials.</li>
 </ul>
- 
- 
->>>>>>> fc66207 (Initial commit)
+
